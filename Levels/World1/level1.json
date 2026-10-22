@@ -1,0 +1,406 @@
+{
+    "SongName": "Twinkle Twinkle",
+    "Author": "W.A. Mozart",
+    "Genre": "Classical",
+    "InitialBackground": "starry_background",
+    "InitialBackgroundColorHex": "#001133",
+    "InitialStaveColorHex": "#FFFFFF",
+    "InitialNoteColorHex": "#FFFFFF",
+    "Events": [
+    {
+        "Bar": 1,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 1,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 2,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 2,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 2,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#0038a8"
+    },
+
+
+    {
+        "Bar": 3,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 3,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 4,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 4,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 4,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#0038a8"
+    },
+
+    {
+        "Bar": 5,
+        "Beat": 1,
+        "EventType": "AnimateColor",
+        "Target": "Background",
+        "Duration": 0.5,
+        "ColorHex": "#000000"
+    },
+    {
+        "Bar": 5,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 7,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#FF0000"
+    },
+
+    {
+        "Bar": 7,
+        "Beat": 1,
+        "EventType": "AnimateColor",
+        "Target": "Background",
+        "Duration": 0.5,
+        "ColorHex": "#000000"
+    },
+    {
+        "Bar": 7,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 6,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 1.5,
+        "ColorHex": "#B9F2FF"
+    },
+    {
+        "Bar": 8,
+        "Beat": 1,
+        "EventType": "AnimateColor",
+        "Target": "Background",
+        "Duration": 0.5,
+        "ColorHex": "#001133"
+    },
+
+    {
+        "Bar": 9,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 9,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 10,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 10,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 10,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#0038a8"
+    },
+
+
+    {
+        "Bar": 11,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 11,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#0038a8"
+    },
+    {
+        "Bar": 12,
+        "Beat": 1,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.7,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 12,
+        "Beat": 2,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#001f5e"
+    },
+    {
+        "Bar": 12,
+        "Beat": 3,
+        "EventType": "PulseColor",
+        "Target": "Background",
+        "FadeInBeats": 0.1,
+        "HoldBeats": 0.0,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#0038a8"
+    },
+
+
+    {
+        "TimeSeconds": 4.0,
+        "EventType": "AnimateColor",
+        "Target": "Stave",
+        "Duration": 0.5,
+        "ColorHex": "#00000000"
+    },
+    {
+        "TimeSeconds": 4.5,
+        "EventType": "AnimateColor",
+        "Target": "Stave",
+        "Duration": 0.5,
+        "ColorHex": "#FFFFFFFF"
+    },
+    {
+        "EventType": "PulseColor",
+        "TargetBeat": 1,
+        "TargetBar": 3,
+        "Bar": 2, 
+        "Beat": 3,
+        "TargetStaffStep": 7,
+        "Target": "Note",
+        "FadeInBeats": 0.5,
+        "HoldBeats": 0.5,
+        "FadeOutBeats": 0.5,
+        "ColorHex": "#FF0000FF"
+        
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub1",
+        "IsStatic": true,
+        "Bar": 1,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 2,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "Twinkle Twinkle Little Star",
+        "FontSize": 40,
+        "ColorHex": "#0024c4",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub2",
+        "IsStatic": true,
+        "Bar": 3,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 4,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "How I wonder what you are.",
+        "FontSize": 40,
+        "ColorHex": "#0024c4",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub3",
+        "IsStatic": true,
+        "Bar": 5,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 6,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "Up above the world so high",
+        "FontSize": 40,
+        "ColorHex": "#FF0000",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub4",
+        "IsStatic": true,
+        "Bar": 7,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 8,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "Like a diamond in the sky",
+        "FontSize": 40,
+        "ColorHex": "#B9F2FF",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub5",
+        "IsStatic": true,
+        "Bar": 9,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 10,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "Twinkle Twinkle Little Star",
+        "FontSize": 40,
+        "ColorHex": "#0024c4",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    },
+    {
+        "EventType": "SpawnText",
+        "ID": "sub6",
+        "IsStatic": true,
+        "Bar": 11,
+        "Beat": 1.0,
+        "FadeInBeats": 0.5,
+        "LeaveBar": 12,
+        "LeaveBeat": 3,
+        "FadeOutBeats": 1,
+        "YOffset": 350,
+        "Text": "How I wonder what you are.",
+        "FontSize": 40,
+        "ColorHex": "#0024c4",
+        "OutlineThickness": 2,
+        "OutlineColorHex": "#000000",
+        "IsBold": true,
+        "IsUnderlined": false
+    }
+  ]
+}

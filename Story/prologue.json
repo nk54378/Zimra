@@ -1,0 +1,53 @@
+{
+    "Characters": {
+        "Tehilo": { "Color": "#66BFFF", "Shape": "quad" }
+    },
+    "Slides": [
+        {
+            "Background": "starry_background",
+            "BackgroundColor": "#14204A", "BackgroundColor2": "#060A18",
+            "BackgroundBrightness": 0.55,
+            "Effect": "calm",
+            "Caption": "ZIMRA",
+            "CaptionSub": "Home",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Narrator", "Text": "Zimra. A small blue world where everything moved in rhythm." },
+                { "Speaker": "Narrator", "Text": "The rivers kept time, the wind carried melodies, and every Zimran learned to read music before they could read words." },
+                { "Speaker": "Tehilo", "Expression": "happy", "Text": "Another perfect evening. Even the stars sound in tune tonight." }
+            ]
+        },
+        {
+            "BackgroundColor": "#2A1240", "BackgroundColor2": "#08040F",
+            "Effect": "signal",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "...Huh? What are those lines in the sky?" },
+                { "Speaker": "Narrator", "Text": "Five bright lines stretched across the horizon. Then, one by one, notes began to appear on them." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "It looks like a stave. Is someone writing music across the sky?" }
+            ]
+        },
+        {
+            "BackgroundColor": "#3A0A10", "BackgroundColor2": "#0A0204",
+            "Effect": "alarm",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Narrator", "Text": "Then the music played, and they came.", "Shake": 16, "Flash": "#FA3834", "Enemies": 4 },
+                { "Speaker": "Tehilo", "Expression": "scared", "Text": "Everyone, get to the ships! Go, go, go!", "Shake": 8 },
+                { "Speaker": "Narrator", "Text": "They struck exactly where the notes had pointed. Every blow landed on the beat." },
+                { "Speaker": "Tehilo", "Expression": "sad", "Text": "It's like they knew exactly where we'd be..." }
+            ]
+        },
+        {
+            "BackgroundColor": "#060A18", "BackgroundColor2": "#000000",
+            "Effect": "warp",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Narrator", "Text": "The Zimrans fled in every direction. Families, friends, whole towns, scattered across the stars." },
+                { "Speaker": "Tehilo", "Expression": "sad", "Text": "Hello? Is anyone on this channel? Anyone from Zimra?" },
+                { "Speaker": "Narrator", "Text": "No one answered. With his ship failing, Tehilo set a course for the nearest sign of life he could find." },
+                { "Speaker": "Narrator", "Text": "...", "Shake": 20, "Flash": "#FFFFFF", "Left": [] }
+            ]
+        }
+    ]
+}

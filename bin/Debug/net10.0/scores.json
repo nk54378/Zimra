@@ -1,0 +1,32 @@
+{
+  "Levels/World3/level5.mid": {
+    "Score": 59200,
+    "Accuracy": 95.15151,
+    "Rank": "S",
+    "MaxCombo": 87
+  },
+  "Levels/World1/level1.mid": {
+    "Score": 12400,
+    "Accuracy": 98.412704,
+    "Rank": "S",
+    "MaxCombo": 1
+  },
+  "Levels/World3/level1.mid": {
+    "Score": 66900,
+    "Accuracy": 96.73913,
+    "Rank": "S",
+    "MaxCombo": 133
+  },
+  "Levels/World1/level3.mid": {
+    "Score": 0,
+    "Accuracy": 0,
+    "Rank": "F",
+    "MaxCombo": 0
+  },
+  "Levels/World1/level2.mid": {
+    "Score": 7150,
+    "Accuracy": 59.583336,
+    "Rank": "D",
+    "MaxCombo": 1
+  }
+}

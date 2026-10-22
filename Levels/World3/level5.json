@@ -1,0 +1,27 @@
+{
+    "SongName": "Say That I Love You",
+    "Author": "CalledOut Music",
+    "Genre": "African Praise",
+    "InitialBackground": "starry_background",
+    "InitialBackgroundColorHex": "#001133",
+    "InitialStaveColorHex": "#FFFFFF",
+    "InitialNoteColorHex": "#FFFFFF",
+    "AudioSyncOffset": -0.06,
+    "Events": [
+        {
+            "Bar": 1,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0.0,
+            "FadeOutBeats": 1.5,
+            "ColorHex": "#0038a8"
+        },
+        {
+            "TimeSeconds": 0.0,
+            "EventType": "ToggleBassClef",
+            "ToggleState": true
+        }
+    ]
+}

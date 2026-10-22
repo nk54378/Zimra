@@ -1,0 +1,521 @@
+{
+    "SongName": "Say That I Love You",
+    "Author": "CalledOut Music",
+    "Genre": "African Praise",
+    "InitialBackground": "bg_beachtropical",
+    "InitialBackgroundColorHex": "#001133",
+    "InitialStaveColorHex": "#FFFFFF",
+    "InitialNoteColorHex": "#FFFFFF",
+    "AudioSyncOffset": -0.06,
+    "Events": [
+        {
+            "Bar": 1,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0.0,
+            "FadeOutBeats": 1.5,
+            "ColorHex": "#0038a8"
+        },
+        {
+            "TimeSeconds": 0.0,
+            "EventType": "ToggleBassClef",
+            "ToggleState": true
+        },
+        {
+            "Bar": 1,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 2,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 3,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 3,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 4,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 5,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 5,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 6,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 7,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 7,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 7,
+            "Beat": 4.5,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 2.5,
+            "ColorHex": "#000000"
+        },
+        {
+            "Bar": 8,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#0038A8"
+        },
+        {
+            "Bar": 9,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 0,
+            "ColorHex": "#6EEB78"
+        },
+        {
+            "Bar": 16,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 4,
+            "ColorHex": "#000000"
+        },
+        {
+            "Bar": 17,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 17,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 17,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 17,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 18,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 18,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 18,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 18,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 19,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 19,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 19,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 19,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 20,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 20,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 20,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 20,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 21,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 21,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 21,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 21,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 22,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 22,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 22,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 22,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 23,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 23,
+            "Beat": 2,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 23,
+            "Beat": 3,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 23,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 24,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.6,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 24,
+            "Beat": 4,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#001F5E"
+        },
+        {
+            "Bar": 24,
+            "Beat": 4.5,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0.1,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#001F5E"
+        },
+        {
+            "Bar": 25,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 0,
+            "ColorHex": "#FF8C00"
+        },
+        {
+            "Bar": 25,
+            "Beat": 1,
+            "EventType": "PulseColor",
+            "Target": "Background",
+            "FadeInBeats": 0,
+            "HoldBeats": 0,
+            "FadeOutBeats": 0.7,
+            "ColorHex": "#FFD040"
+        },
+        {
+            "Bar": 26,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 1,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 27,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 1,
+            "ColorHex": "#FF00AA"
+        },
+        {
+            "Bar": 28,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 1,
+            "ColorHex": "#FA3834"
+        },
+        {
+            "Bar": 29,
+            "Beat": 1,
+            "EventType": "AnimateColor",
+            "Target": "Background",
+            "DurationBeats": 2,
+            "ColorHex": "#50D2FF"
+        }
+    ]
+}

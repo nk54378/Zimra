@@ -1,0 +1,29 @@
+{
+  "InitialBackgroundColorHex": "#001133",
+    "InitialStaveColorHex": "#FFFFFF",
+    "InitialNoteColorHex": "#FFFFFF",
+  "Events": [
+    {
+      "TimeSeconds": 0.0,
+      "EventType": "ToggleBassClef",
+      "ToggleState": true
+    },
+    {
+      "TimeSeconds": 10.0,
+      "EventType": "ToggleBassClef",
+      "ToggleState": false
+    },
+    {
+      "EventType": "SpawnDecoration",
+      "ID": "hover_arrow",
+      "TextureName": "arrow",
+      "Bar": 4,
+      "Beat": 2.0,
+      "StaffStep": 10,
+      "Scale": 1.5,
+      "SpinSpeed": 90.0,
+      "BobSpeed": 4.0,
+      "BobAmplitude": 15.0
+    }
+  ]
+}

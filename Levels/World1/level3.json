@@ -1,0 +1,12 @@
+{
+    "InitialBackgroundColorHex": "#001133",
+    "InitialStaveColorHex": "#FFFFFF",
+    "InitialNoteColorHex": "#FFFFFF",
+    "Events": [
+    {
+        "TimeSeconds": -2.0,
+        "EventType": "ToggleBassClef",
+        "ToggleState": true
+    }
+  ]
+}

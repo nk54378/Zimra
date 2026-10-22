@@ -1,0 +1,99 @@
+{
+    "Characters": {
+        "Tehilo": { "Color": "#FA3638", "Shape": "quad" },
+        "Elyra":  { "Color": "#c1b3ff", "Shape": "round" }
+    },
+    "Slides": [
+        {
+            "Background": "bg_auvora",
+            "BackgroundColor": "#1C3A4A", "BackgroundColor2": "#0A1418",
+            "Effect": "calm",
+            "Caption": "AUVORA",
+            "CaptionSub": "World 1",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Tehilo", "Expression": "hurt", "Text": "Ugh... where am I?" },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "The ship's wrecked, but I'm alive. I actually made it." },
+                { "Speaker": "Tehilo", "Expression": "happy", "Text": "This place is beautiful. The grass chimes when the wind moves through it. It's so peaceful here." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "Maybe whoever attacked Zimra never found this planet. Maybe the others landed somewhere like this too." }
+            ]
+        },
+        {
+            "Background": "bg_auvora",
+            "BackgroundBrightness": 0.45,
+            "Effect": "alarm",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Narrator", "Text": "The ground shook. Shapes came pouring over the hill.", "Shake": 12, "Enemies": 3 },
+                { "Speaker": "Tehilo", "Expression": "scared", "Text": "No... not here too! How did they find me?" },
+                { "Speaker": "Tehilo", "Expression": "hurt", "Text": "Agh! There are too many of them!", "Shake": 10, "Flash": "#FA3834", "Enemies": 5 }
+            ]
+        },
+        {
+            "Background": "bg_auvora",
+            "Effect": "calm",
+            "Left": ["Tehilo"],
+            "Lines": [
+                { "Speaker": "Narrator", "Text": "Out of nowhere, a burst of white light tore through them. The creatures scattered.", "Shake": 14, "Flash": "#FF64C8", "Enemies": 0, "Right": ["Elyra"] },
+                { "Speaker": "Elyra", "Expression": "angry", "Text": "Stay down! ...There. They're gone. For now." },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "Who... who are you?" },
+                { "Speaker": "Elyra", "Expression": "happy", "Text": "Elyra. I live on Auvora. Well, in the parts of it that are still quiet." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "You're lucky. Most people they surround don't get back up. What's your name?" },
+                { "Speaker": "Tehilo", "Expression": "sad", "Text": "Tehilo. I'm from Zimra. Or I was. They attacked us too." }
+            ]
+        },
+        {
+            "Background": "bg_auvora",
+            "BackgroundBrightness": 0.5,
+            "Effect": "signal",
+            "Left": ["Tehilo"],
+            "Right": ["Elyra"],
+            "Lines": [
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "Those dots in the sky…" },
+                { "Speaker": "Narrator", "Text": "He looks up. For a moment, the glow reflects in his eyes. A memory flashes across his mind: the same strange pattern hanging over Zimra before the attack." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "I saw them before Zimra was attacked. What could they mean?" },
+                { "Speaker": "Elyra", "Expression": "sad", "Text": "Those aren’t dots. It’s sheet music." },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "Sheet music? I’ve heard about it. It’s apparently a way to write down music." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "Never learnt it, though." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "Fortunately for you, I have. Mostly." },
+                { "Speaker": "Tehilo", "Expression": "happy", "Text": "“Mostly” is reassuring!" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": " I’ve decoded enough to know how the system works. See these five lines? That’s the stave. The higher a note sits on it, the higher the pitch." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "This is G. The curl of the treble clef circles that line, which is how you know where G belongs." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "This one with the line through it at the bottom is Middle C." },
+                { "Speaker": "Elyra", "Expression": "happy", "Text": "This one with the line through it at the bottom is Middle C.", "RequirePitch": 60, "RequirePitchName": "Middle C"},
+                { "Speaker": "Elyra", "Expression": "happy", "Text": "Exactly. See the little line through it? That’s a ledger line. It lets us write notes outside the main stave." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "So the lines just keep going when you run out of room?" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "More or less." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "All right. So I have to memorise the note for every single position?" },
+                { "Speaker": "Elyra", "Expression": "happy", "Text": "Not every single one. Notes move up and down the stave in order. If you know one note, you can work out the notes around it." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "You make that sound easy." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "It becomes easier with practice." },
+
+                { "Speaker": "Narrator", "Text": "A low rumble interrupts them. The glowing lines overhead flicker. Several hostile notes begin to peel away from the distant musical pattern, descending toward the ground.", "Shake": 12},
+
+                { "Speaker": "Tehilo", "Expression": "sad", "Text": "Please tell me those are friendly.", "Enemies": 0 },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "They are very much not friendly." },
+
+                { "Speaker": "Elyra", "Expression": "sad", "Text": "Uh oh." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "“Uh oh” what?" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "That explosion earlier may have fried the focusing crystal in my staff." },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "You caused an explosion?" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "I caused a controlled explosion. The staff malfunction was an unexpected side effect." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "And you can’t fix it?" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "Not while those things are trying to turn us into musical notation." },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "So you’re saying I have to fight them?" },
+                { "Speaker": "Elyra", "Expression": "happy", "Text": "That's pretty much what I'm saying, yeah." },
+                { "Speaker": "Tehilo", "Expression": "surprised", "Text": "Why me?!" },
+                { "Speaker": "Elyra", "Expression": "angry", "Text": "Uh, hello? Because there are enemies, I don’t have a weapon, and you’re standing right there. Keep up." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "I’ve been here five minutes! How am I supposed to figure all this out on my first try" },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "Don’t panic. The attacks around here are relatively weak. You should have enough time to learn what the notes mean." },
+                { "Speaker": "Tehilo", "Expression": "sad", "Text": "“Should”?" },
+                { "Speaker": "Elyra", "Expression": "angry", "Text": "Would you prefer I lie to you?" },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "Right. Read the music. Don’t get hit. Got it." },
+                { "Speaker": "Elyra", "Expression": "neutral", "Text": "Something like that." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "You could sound a little more encouraging." },
+                { "Speaker": "Elyra", "Expression": "angry", "Text": "YOU could try not getting hit..." }
+            ]
+        }
+    ]
+}

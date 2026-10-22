@@ -1,0 +1,25 @@
+// Before the Auvora boss: plays the first time the player starts World 1's last level.
+{
+    "Characters": {
+        "Tehilo": { "Color": "#66BFFF", "Shape": "quad" },
+        "Elyra":  { "Color": "#FF64C8", "Shape": "round" }
+    },
+    "Slides": [
+        {
+            "Background": "bg_auvora",
+            "BackgroundBrightness": 0.4,
+            "Effect": "signal",
+            "Caption": "THE SOURCE",
+            "CaptionSub": "Auvora",
+            "Left": ["Tehilo"],
+            "Right": ["Elyra"],
+            "Lines": [
+                { "Speaker": "Elyra", "Expression": "scared", "Text": "The signal's never been this loud. Look at the sky, it's filling every line." },
+                { "Speaker": "Tehilo", "Expression": "neutral", "Text": "This is where it's coming from. Something must be guarding the transmitter." },
+                { "Speaker": "Narrator", "Text": "The ground split open, and something enormous rose to meet them.", "Shake": 18, "Flash": "#FA3834", "Effect": "alarm", "Boss": true },
+                { "Speaker": "Elyra", "Expression": "angry", "Text": "Ready, Tehilo? Treble's yours." },
+                { "Speaker": "Tehilo", "Expression": "angry", "Text": "And the bass is yours. Let's play it louder than they do." }
+            ]
+        }
+    ]
+}
